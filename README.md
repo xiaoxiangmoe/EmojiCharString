@@ -22,10 +22,10 @@ npm install emojicharstring --save
 And then you can import it
 ```javascript
 // CommonJS
-const EmojiCharString = require('EmojiCharString');
+const EmojiCharString = require('emojicharstring');
 
 // or ES6
-import EmojiCharString from 'EmojiCharString'
+import EmojiCharString from 'emojicharstring';
 ```
 
 Or include the file in your HTML page using the following tags:
